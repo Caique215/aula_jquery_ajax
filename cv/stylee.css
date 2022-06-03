@@ -218,7 +218,7 @@ left: -13.5px;
         height: auto;
     }
     .pagina>.resumo{
-        margin-top: -300px;
+        margin-top: -250px;
     }
     .pagina>.contato::before{
         content: none;
