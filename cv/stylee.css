@@ -92,6 +92,9 @@ h1,h2,h3,h4,h5{
     height: 100%;
 
 }
+.contato>ul>li{
+    word-break: break-all;
+}
 .pagina>.contato{
     grid-column: 2;
     grid-row-start: 2;
