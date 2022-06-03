@@ -215,13 +215,17 @@ left: -13.5px;
         height: auto;
     }
     .pagina>.resumo{
-        margin-top: -400px;
+        margin-top: -300px;
     }
     .pagina>.contato::before{
         content: none;
     }
     .pagina>div{
         margin: 11px 22px;
+    }
+    .foto>img{
+        min-width: 100px;
+        min-height: 200px;
     }
    
 }
