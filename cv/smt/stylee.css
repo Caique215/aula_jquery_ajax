@@ -92,6 +92,9 @@ h1,h2,h3,h4,h5{
     height: 100%;
 
 }
+.contato>ul>li{
+    word-break: break-all;
+}
 .pagina>.contato{
     grid-column: 2;
     grid-row-start: 2;
@@ -101,6 +104,7 @@ h1,h2,h3,h4,h5{
     background-color: var(--cor-cinza);
     position: relative;
 }
+
 .pagina>.foto::before,.pagina>.contato::before{
 margin: 0;
 padding: 0;
@@ -214,7 +218,7 @@ left: -13.5px;
         height: auto;
     }
     .pagina>.resumo{
-        margin-top: -400px;
+        margin-top: -250px;
     }
     .pagina>.contato::before{
         content: none;
@@ -222,6 +226,13 @@ left: -13.5px;
     .pagina>div{
         margin: 11px 22px;
     }
-   
-}
+    .foto>img{
+        min-width: 100px;
+        min-height: 200px;
+    }
+  
+    .contato>ul>li{
+        
+        font-size: 10px;
+    } 
 }
