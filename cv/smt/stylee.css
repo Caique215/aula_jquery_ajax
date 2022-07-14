@@ -94,7 +94,7 @@ h1,h2,h3,h4,h5{
 }
 .contato>ul>li{
     word-break: break-all;
-     text-decoration: none;
+    
 }
 .contato>ul>li>a{
    
@@ -222,7 +222,7 @@ left: -13.5px;
         left: -25px;
     }
     .pagina>.foto>img{
-        width: 100%;
+        width: 50%;
         height: auto;
     }
     .pagina>.resumo{
