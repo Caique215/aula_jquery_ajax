@@ -96,6 +96,13 @@ h1,h2,h3,h4,h5{
     word-break: break-all;
      text-decoration: none;
 }
+.contato>ul>li>a{
+   
+     text-decoration: none;
+}
+
+
+
 .pagina>.contato{
     grid-column: 2;
     grid-row-start: 2;
