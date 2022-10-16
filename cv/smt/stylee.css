@@ -235,8 +235,8 @@ left: -13.5px;
         margin: 11px 22px;
     }
     .foto>img{
-        min-width: 101px;
-        min-height: 200px;
+        min-width: 180px;
+        min-height: 100px;
     }
   
     .contato>ul>li{
