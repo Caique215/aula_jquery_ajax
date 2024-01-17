@@ -131,8 +131,8 @@ z-index:-1;
     left: -75%;
 }
 .foto>img{
-    min-width: 400px;
-    min-height: 220px;
+    min-width: 220px;
+    min-height: 150px;
 }
 
 .pagina>.resumo{
