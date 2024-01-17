@@ -117,8 +117,8 @@ h1,h2,h3,h4,h5{
 margin: 0;
 padding: 0;
 content: '';
-width:71%;
-height:65%;
+width:85%;
+height:80%;
 background-color: var(--cor-cinza);
 position: absolute;
 top: -48px;
@@ -222,7 +222,7 @@ left: -13.5px;
         left: -25px;
     }
     .pagina>.foto>img{
-        width: 50%;
+        width: 40%;
         height: auto;
     }
     .pagina>.resumo{
